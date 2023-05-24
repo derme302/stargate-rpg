@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Derme302's Stargate RPG Companion Guide"
+theme = "hugo-book"
